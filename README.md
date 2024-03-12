@@ -3,4 +3,6 @@
 - Esta del proyecto: En construccion.
 
 para ejecutar el sistema, debes poner:
-'''npm install react'''
+```npm install react```
+
+Sistema de  Registro 2
